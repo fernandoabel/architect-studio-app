@@ -1,0 +1,18 @@
+@import '../../styles/base.scss';
+
+.AppLogo {
+
+    div.img {
+        display: block;
+        width: 100%;
+        height: 32px;
+        background-size: cover;
+    }
+
+    .Logo {
+        width: 45px;
+        height: 45px;
+        background-size: cover;
+        margin: $unit;
+    }
+}

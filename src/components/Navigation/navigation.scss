@@ -1,0 +1,7 @@
+@import '../../styles/base.scss';
+
+.Navigation {
+    .MuiMenuItem-root:hover {
+        background-color: inherit;
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "slug": "casa-verao-bellatorres",
+            "title": "Beach House - Bella Torres, Brazil",
+            "description": "2023",
+            "images": [
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-1.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-2.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-3.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-4.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-5.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-7.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-8.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-9.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-10.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-11.jpg",
+                "/img/projects/2023-beach-house-bellatorres/casa-verao-bellatorres-12.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "slug": "ayla-bedroom",
+            "title": "Aylas's Bedroom - Dublin, Ireland",
+            "description": "2023",
+            "images": ["/img/projects/2023-ayla-bedroom/ayla-1.jpg", "/img/projects/2023-ayla-bedroom/ayla-2.jpg"]
+        },
+        {
+            "id": 3,
+            "title": "Project 3",
+            "description": "This is a description of Project 1",
+            "images": [
+                "/img/projects/project1/image1.jpg",
+                "/img/projects/project1/image2.jpg",
+                "/img/projects/project1/image3.jpg",
+                "/img/projects/project1/image4.jpg",
+                "/img/projects/project1/image5.jpg",
+                "/img/projects/project1/image6.jpg",
+                "/img/projects/project1/image7.jpg",
+                "/img/projects/project1/image8.jpg",
+                "/img/projects/project1/image9.jpg",
+                "/img/projects/project1/image10.jpg",
+                "/img/projects/project1/image11.jpg",
+                "/img/projects/project1/image12.jpg",
+                "/img/projects/project1/image13.jpg",
+                "/img/projects/project1/image14.jpg",
+                "/img/projects/project1/image15.jpg",
+                "/img/projects/project1/image16.jpg",
+                "/img/projects/project1/image17.jpg",
+                "/img/projects/project1/image18.jpg",
+                "/img/projects/project1/image19.jpg",
+                "/img/projects/project1/image20.jpg",
+                "/img/projects/project1/image21.jpg",
+                "/img/projects/project1/image22.jpg",
+                "/img/projects/project1/image23.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Project 4",
+            "description": "This is a description of Project 3",
+            "images": [
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image8.jpg",
+                "/img/projects/project2/image9.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Project 5",
+            "description": "This is a description of Project 3",
+            "images": [
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image8.jpg",
+                "/img/projects/project2/image9.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Project 6",
+            "description": "This is a description of Project 3",
+            "images": [
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image8.jpg",
+                "/img/projects/project2/image9.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Project 7",
+            "description": "This is a description of Project 3",
+            "images": [
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image8.jpg",
+                "/img/projects/project2/image9.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Project 8",
+            "description": "This is a description of Project 3",
+            "images": [
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image8.jpg",
+                "/img/projects/project2/image9.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Project 9",
+            "description": "This is a description of Project 3",
+            "images": [
+                "/img/projects/project2/image8.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image9.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Project 10",
+            "description": "This is a description of Project 10",
+            "images": [
+                "/img/projects/project2/image9.jpg",
+                "/img/projects/project2/image1.jpg",
+                "/img/projects/project2/image2.jpg",
+                "/img/projects/project2/image3.jpg",
+                "/img/projects/project2/image4.jpg",
+                "/img/projects/project2/image5.jpg",
+                "/img/projects/project2/image6.jpg",
+                "/img/projects/project2/image7.jpg",
+                "/img/projects/project2/image8.jpg"
+            ]
+        }
+    ]
+}

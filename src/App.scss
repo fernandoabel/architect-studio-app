@@ -1,0 +1,12 @@
+@import './styles/fonts.scss';
+@import './styles/base.scss';
+
+a {
+  text-decoration: none;
+  transition: color 0.3s ease-out;
+  color: inherit;
+
+  &.selected {
+    color: $primary-color;
+  }
+}

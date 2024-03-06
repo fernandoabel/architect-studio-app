@@ -1,0 +1,20 @@
+@import '../../styles/base.scss';
+
+.avatar {
+    border-radius: 100%;
+    box-sizing: border-box;
+
+    .image {
+        margin: auto;
+        min-width: 300px;
+        min-height: 300px;
+        background-repeat: no-repeat;
+        background-position: 50%;
+        background-size: cover;
+        animation: morph 5s ease-in-out 0s infinite;
+        background-blend-mode: multiply;
+        box-shadow: inset 0 0 0 9px hsla(0, 0%, 100%, .3);
+        border-radius: 40% 40% 30% 70%/60% 30% 70% 40%;
+        overflow: hidden;
+    }
+}

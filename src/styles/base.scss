@@ -1,0 +1,22 @@
+$unit: 4px;
+$double: $unit * 2;
+$half: $unit * 5;
+$deca: $unit * 10;
+
+$primary-color: #FF914D;
+$secondary-color: black;
+
+
+@keyframes morph {
+  0% {
+    border-radius: 40% 40% 30% 70%/60% 30% 70% 40%
+  }
+
+  50% {
+    border-radius: 30% 60% 70% 40%/50% 60% 30% 60%
+  }
+
+  to {
+    border-radius: 40% 40% 30% 70%/60% 30% 70% 40%
+  }
+}

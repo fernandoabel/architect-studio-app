@@ -1,0 +1,32 @@
+.social {
+    width: 100%;
+    float: left;
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+
+    li {
+        margin: 0 15px 0 0;
+        display: inline-flex
+    }
+
+    li:last-child {
+        margin-right: 0
+    }
+
+    li a {
+        // text-decoration: none;
+        // color: #000;
+        transition: .3s ease-in-out
+    }
+
+    li a:hover {
+        filter: opacity(.7);
+        transform: translateY(-5px)
+    }
+
+    li .svg {
+        width: 17px;
+        height: 17px
+    }
+}

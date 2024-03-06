@@ -1,0 +1,48 @@
+{
+    "name": "Evelyn Cardoso de Souza",
+    "description": "I am a graduate architect from the University of Caxias do Sul and have been working in the field for over 6 years. During my journey, I have sought to learn everything about each aspect of architecture, gaining experience in every stage of a project, from conception to final implementation. I am passionate about innovative design and the use of sustainable materials.",
+    "role": "Architect and Urbanist",
+    "avatar": "/img/profile.jpg",
+    "framework": "",
+    "title": "Evelyn Souza",
+    "icon": "react-js",
+    "siteStyle": "routes",
+    "email": "evelyn.csza@gmail.com",
+    "theme": {
+        "colors": {
+            "primary": "#FF914D"
+        }
+    },
+    "social": [
+        {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/evelyn.souza.31392"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://www.instagram.com/evelyncsz"
+        },
+        {
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/in/evelyncsouza/"
+        },
+        {
+            "name": "Email",
+            "url": "mailto:evelyn.csza@gmail.com"
+        }
+    ],
+    "routes": [
+        {
+            "name": "Home",
+            "slug": "/"
+        },
+        {
+            "name": "Projects",
+            "slug": "/projects"
+        },
+        {
+            "name": "Contact",
+            "slug": "/contact"
+        }
+    ]
+}
